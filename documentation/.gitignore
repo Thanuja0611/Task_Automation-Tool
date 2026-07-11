@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+
+# Python compiled files
+*.pyo
+*.pyd
+
+# Distribution files
+build/
+dist/
+*.egg-info/
+
+# Test cache
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+*.temp
